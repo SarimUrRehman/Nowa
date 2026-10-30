@@ -1,0 +1,6 @@
+{
+  "name": "NouwaDetail – Mobile Auto Detailing",
+  "description": "Mobile auto detailing, interior and exterior cleaning across Redmond, Bend and Central Oregon. We bring the showroom shine to your doorstep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
